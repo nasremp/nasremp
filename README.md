@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Stock price prediction project using LSTM and time series forecasting.
 - 🌱 I’m currently learning new frameworks and technologies for deep learning and neural networks.
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: s-mohamed_nasr@zewailcity.edu.eg
 - ⚡ Fun fact: I love Table Tennis 🏓
 
